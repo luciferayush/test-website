@@ -3788,7 +3788,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     margin-top: 60px;
 }
 .ast_logo {
-    padding: 0px 0px;
+    padding: 20px 130px;
     width: 160%;
 }
 /* .ast_menu_btn{
@@ -4024,7 +4024,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     padding: 100px 0px;
 }
 .ast_bannertext_wrapper h1 {
-    margin: 0px 0px 0px 0px;
+    margin: 50px 0px 0px 0px;
     font-size: 36px;
 }
 .ast_bannertext_wrapper ul li {
